@@ -10,3 +10,5 @@ class student:
 stu1 = student(5,5)
 print(stu1.addi())
 print("This is over")
+print("Done")
+
